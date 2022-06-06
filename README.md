@@ -30,7 +30,7 @@ index.html
 ---
 
 ## 🖼 Layout
-<!-- ![Layout Animais Fantasticos](https://github.com/Clara-Pacheco/JavaScript-Completo-ES6-ORIGAMID/blob/main/layout.png) -->
+![Website preview gif](https://github.com/Clara-Pacheco/Natours/blob/main/img/Project%20preview.gif)
 
 ## 📝 Licença
 O projeto se encontra sob licença MIT. Para mais detalhes, acesse [license](LICENSE).
